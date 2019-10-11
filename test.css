@@ -3,7 +3,7 @@ body{
 }
 
 p{
-
+float: center;
 }
 
 h3{
@@ -52,6 +52,7 @@ li{
 }
 
 #Content{
+    float: center;
     padding: 15px;
     text-align: center;
     width: 700px;
