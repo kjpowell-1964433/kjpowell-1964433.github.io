@@ -38,12 +38,13 @@ li{
 }
 
 #LeftNav img{
-
+    float: left;
 }
 
 #LeftNev ul{
     list-style-type: none;
     padding-left: 0px;
+    float: left;
 }
 
 #LeftNav h3{
